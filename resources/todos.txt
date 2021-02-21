@@ -1,5 +1,2 @@
-1|Take a break
-2|Make tea
-3|Buy 1kg rice
-4|Follow tdd
-
+4|1kg rice|active
+5|1kg rice|active
